@@ -13,12 +13,17 @@ Format:
 	disabled (disables the map)
 endmap
 
-map pahrump
+map yuma
 	default
 endmap
+
+map pahrump
+endmap
+
 map stjeromesvalley
 	disabled
 endmap
+
 map sunnyvale
 	disabled
 endmap

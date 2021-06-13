@@ -6,6 +6,8 @@
 	#ifdef ALL_MAPS
 		#include "map_files\Pahrump\Pahrump-Surface-2.dmm"
 		#include "map_files\Pahrump\Pahrump-Underground-1.dmm"
+		#include "map_files\Yuma\Surface-1.dmm"
+		#include "map_files\Yuma\Underground-1.dmm"
 
 		#ifdef TRAVISBUILDING
 			#include "templates.dm"
