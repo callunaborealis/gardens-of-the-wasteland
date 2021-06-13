@@ -146,7 +146,8 @@
 				if(age_verification != 1)
 					client.add_system_note("Automated-Age-Gate", "Failed automatic age gate process")
 					//ban them and kick them
-					AddBan(client.ckey, client.computer_id, "SYSTEM BAN - Inputted date during join verification was under 18 years of age. Contact administration on discord for verification. https://discord.gg/NGpP36m", "SYSTEM", FALSE, null, client.address)
+					var/discordurl = CONFIG_GET(string/discordurl)
+					AddBan(client.ckey, client.computer_id, "SYSTEM BAN - Inputted date during join verification was under 18 years of age. Contact administration on discord for verification. [discordurl]", "SYSTEM", FALSE, null, client.address)
 					qdel(client)
 					return FALSE
 				else

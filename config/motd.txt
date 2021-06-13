@@ -1,27 +1,28 @@
 <!-- Most valid html will work in here, excluding images. -->
 
-<h1>Welcome to Desert Rose 2: Back to the Wasteland!</h1>
+<h1>Welcome to Gardens of the Wasteland!</h1>
 
-<b>This is an 18+ server, do not play if you are underage.</b>
+<b>This is an 18+ server with mature themes. You should not be here if you are underage.</b>
 
 <i>
 <p>Don't be a dick, and <b>read the rules</b> before you play.</p>
 
-<p>Welcome to the Rebase! We have transferred our code onto /tg/-based Citadel, bringing many updates with it.</p>
+<p>Welcome to the Gardens of the Wasteland! Currently we are a clone of Desert Rose 2, which is a rebase of Desert Rose based on Citadel 13. Currently, I am using this server for maps. Through Desert Rose 2 rules, I aim to provide a safe and inclusive environment for 18+ users to explore heavy role playing with mature themes. However, this might change in the future.</p>
+</ul>
 
-<p>Development is active and we are always looking for more talent, we are open source and you can get involved via the links below.</p>
+<p>The lovely folks at Desert Rose 2.</p>
 
 <p>GitHub: https://github.com/DesertRose2/desertrose</p>
-<p>Discord: https://discord.gg/NGpP36m</p>
+<p>Gardens of the Wasteland Discord (WIP): https://discord.gg/AScTfMFD</p>
+<p>Gardens of the Wasteland currently does not have a whitelist for roles. That might change in the future.</p>
 
-<p>Visit our forums for appeals, staff applications, and to apply for role whitelists!</p>
+<p>Visit Desert Rose 2:</p>
 <p>Forum: http://desertrosefallout13.boards.net/</p>
-<p>Whitelist Applications:  http://desertrosefallout13.boards.net/board/5/whitelist-applications</p>
 
-<p>Patreon:</p>
+<p>Desert Rose 2 Patreon:</p>
 <p>https://www.patreon.com/desertrose2</p>
 
-<p>Patreon Supporters:</p>
+<p>Desert Rose 2 Patreon Supporters (Bless these folk)</p>
 <pre>
 covertOddity
 WeebleTeebles

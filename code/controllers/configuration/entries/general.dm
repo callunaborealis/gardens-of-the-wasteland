@@ -209,7 +209,6 @@
 	config_entry_value = "https://desert-rose-fallout-13.fandom.com/wiki/Desert_Rose_-_Fallout_13_Wiki"
 
 /datum/config_entry/string/discordurl
-	config_entry_value = "https://discord.gg/NGpP36m"
 
 /datum/config_entry/string/wikiurltg
 	config_entry_value = "http://www.tgstation13.org/wiki"
@@ -218,7 +217,6 @@
 	config_entry_value = "https://desertrosefallout13.boards.net"
 
 /datum/config_entry/string/rulesurl
-	config_entry_value = "https://discord.gg/NGpP36m"
 
 /datum/config_entry/string/githuburl
 	config_entry_value = "https://github.com/DesertRose2/desertrose"

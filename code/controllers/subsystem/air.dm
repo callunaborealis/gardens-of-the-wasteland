@@ -83,7 +83,7 @@ SUBSYSTEM_DEF(air)
 	return ..()
 
 /datum/controller/subsystem/air/proc/extools_update_ssair()
-//datum/controller/subsystem/air/proc/extools_update_reactions()
+/datum/controller/subsystem/air/proc/auxtools_update_reactions()
 
 /datum/controller/subsystem/air/proc/thread_running()
 	return FALSE
