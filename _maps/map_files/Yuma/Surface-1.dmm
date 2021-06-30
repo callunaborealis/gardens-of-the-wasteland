@@ -485,6 +485,10 @@
 	icon_state = "redmark"
 	},
 /area/f13/wasteland)
+"eOU" = (
+/obj/structure/chair,
+/turf/open/floor/wood,
+/area/f13/wasteland)
 "eRE" = (
 /obj/structure/chair/wood{
 	dir = 8
@@ -527,14 +531,8 @@
 /turf/open/floor/f13/wood,
 /area/f13/wasteland)
 "fvC" = (
-/obj/structure/fence,
-/obj/structure/flora/grass/jungle,
-/turf/open/indestructible/ground/outside/water{
-	barefootstep = "water";
-	clawfootstep = "water";
-	footstep = "water";
-	heavyfootstep = "water"
-	},
+/obj/structure/filingcabinet/chestdrawer,
+/turf/open/floor/wood,
 /area/f13/wasteland)
 "fxR" = (
 /turf/closed/wall/f13/store,
@@ -1632,8 +1630,8 @@ yjA
 yjA
 yjA
 yjA
-yjA
-yjA
+dYI
+dYI
 yjA
 yjA
 yjA
@@ -1889,8 +1887,8 @@ ims
 ims
 ims
 ims
-ims
-euC
+wvV
+wvV
 ims
 ims
 ims
@@ -2145,10 +2143,10 @@ aeg
 yjA
 fdA
 fdA
-yjA
-yjA
-fdA
-yjA
+dYI
+dYI
+dYI
+dYI
 fdA
 fdA
 yjA
@@ -2402,10 +2400,10 @@ wvV
 wvV
 wvV
 wvV
+dYI
 wvV
-fvC
-fvC
 wvV
+dYI
 wvV
 wvV
 wvV
@@ -2659,10 +2657,10 @@ wvV
 wvV
 wvV
 wvV
-sCa
+wvV
 cvw
 cvw
-acb
+wvV
 wvV
 wvV
 wvV
@@ -2916,11 +2914,11 @@ fyf
 wvV
 wvV
 fyf
-sCa
+wvV
 cvw
 ppo
-acb
-fyf
+wvV
+wvV
 wvV
 wvV
 fyf
@@ -8300,7 +8298,7 @@ ims
 ims
 hbL
 fxR
-jqM
+tJa
 jqM
 jqM
 jqM
@@ -8557,7 +8555,7 @@ ims
 ims
 hbL
 oeO
-jqM
+tJa
 jqM
 jqM
 jqM
@@ -8814,7 +8812,7 @@ ims
 ims
 hbL
 oeO
-jqM
+tJa
 jqM
 uQn
 tJa
@@ -9071,13 +9069,13 @@ ims
 ims
 hbL
 fxR
-jqM
-jqM
-pju
-jqM
+tJa
 jqM
 pju
+fvC
 jqM
+pju
+fvC
 jqM
 oeO
 aep
@@ -9328,7 +9326,7 @@ ims
 ims
 hbL
 fxR
-jqM
+tJa
 jqM
 jqM
 jqM
@@ -9585,7 +9583,7 @@ ims
 ims
 hbL
 oeO
-jqM
+tJa
 jqM
 uQn
 tJa
@@ -9842,13 +9840,13 @@ ims
 ims
 hbL
 oeO
-jqM
-jqM
-pju
-jqM
+tJa
 jqM
 pju
+fvC
 jqM
+pju
+fvC
 jqM
 ivE
 jaQ
@@ -10099,7 +10097,7 @@ ims
 ims
 hbL
 fxR
-jqM
+tJa
 jqM
 jqM
 jqM
@@ -12162,7 +12160,7 @@ ims
 hbL
 oeO
 jqM
-jqM
+fvC
 oeO
 jaQ
 ims
@@ -12418,8 +12416,8 @@ ims
 ims
 hbL
 oeO
-jqM
-jqM
+eOU
+uQn
 oeO
 jaQ
 ims
